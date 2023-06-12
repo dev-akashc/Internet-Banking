@@ -1,5 +1,4 @@
-//Mouseover Tabs Menu: By http://www.dynamicdrive.com
-//** Aug 4th, 08': Script creation date
+
 
 var mouseovertabsmenu={
 

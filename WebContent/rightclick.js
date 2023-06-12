@@ -1,9 +1,7 @@
 
  <!--
  
-//Disable right mouse click Script
- //By Maximus (maximus@nsimail.com) w/ mods by DynamicDrive
- //For full source code, visit http://www.dynamicdrive.com
+
  
 var message="Right Click never works on INTERNET BANKING!";
  

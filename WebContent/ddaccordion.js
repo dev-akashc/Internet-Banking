@@ -1,9 +1,3 @@
-//** Accordion Content script: By Dynamic Drive, at http://www.dynamicdrive.com
-//** Created: Jan 7th, 08'. Last updated: June 7th, 2010 to v1.9
-
-//Version 1.9: June 7th, 2010':
-//**1) Ajax content support added, so a given header's content can be dynamically fetched from an external file and on demand.
-//**2) Optimized script performance by caching header and content container references
 
 
 var ddaccordion={
